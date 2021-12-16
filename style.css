@@ -1,0 +1,23 @@
+.bna{
+    width: 45px; 
+    height: 45px; 
+    border: none; 
+    background-color: rgba(255, 255, 255, 0.466);
+    float: left;
+    color: rgb(255, 255, 255);
+}
+
+.bna:hover{
+    background-color: rgba(21, 211, 148, 0.678);
+
+}
+
+body{
+    margin: 0%; 
+    padding: 0%; 
+    width: 100vw; 
+    height: 100vh; 
+    overflow: hidden;
+    background: url('https://w6h5a5r4.rocketcdn.me/wp-content/uploads/2019/06/pizza-con-chorizo-jamon-y-queso-1080x671.jpg');
+    background-size: cover;
+}
